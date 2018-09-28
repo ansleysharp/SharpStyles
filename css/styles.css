@@ -28,6 +28,16 @@ h1 {
   font-style: oblique;
 }
 
+h2 {
+  text-align: right;
+  font-family: Georgia;
+  right: 30px;
+}
+
+
+
+
+
 .icon-bar {
     width: 90px; /* Set a specific width */
     background-color: #555; /* Dark-grey background */
@@ -48,4 +58,28 @@ h1 {
 
 .active {
     background-color: #4CAF50; /* Add an active/current color */
+}
+
+
+embed {
+position: fixed;
+left: 250px;
+}
+
+
+.textbox {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #4CAF50;
+}
+
+p {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 3px;
 }
