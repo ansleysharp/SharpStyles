@@ -44,6 +44,7 @@ h2 {
 }
 
 .icon-bar a {
+
     display: block;
     text-align: center;
     padding: 16px;
@@ -85,7 +86,7 @@ p {
 }
 
 .questions {
-  text-indent: 50px;
+  text-indent: 200px;
   text-align: left;
   color: #0000ff;
 }
