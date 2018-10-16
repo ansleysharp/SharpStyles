@@ -71,7 +71,10 @@ left: 250px;
 .textbox {
     border: 1px solid gray;
     padding: 8px;
+    text-align: center;
 }
+
+
 
 h1 {
     text-align: center;
@@ -86,7 +89,7 @@ p {
 }
 
 .questions {
-  text-indent: 200px;
+  text-indent: 0px;
   text-align: left;
   color: #0000ff;
   position: absolute;
