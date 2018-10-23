@@ -34,9 +34,25 @@ h2 {
   right: 30px;
 }
 
+.column {
+  color: white;
+}
 
+.column h2 {
+  text-align: left;
+  text-indent: 925px;
+}
 
+.column h3 {
+  text-align: left;
+  text-indent: 875px;
+  color: black;
+}
 
+.column p {
+  text-align: left;
+  text-indent: 900px;
+}
 
 .icon-bar {
     width: 90px;
