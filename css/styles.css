@@ -45,13 +45,23 @@ h2 {
 
 .column h3 {
   text-align: left;
-  text-indent: 875px;
+  text-indent: 6px;
   color: black;
 }
 
 .column p {
   text-align: left;
-  text-indent: 900px;
+  text-indent: 700px;
+}
+
+.columns h3 {
+  text-align: top right;
+  color: blue;
+}
+
+.columns p {
+  text-align: top right;
+  color: black;
 }
 
 .icon-bar {
@@ -79,8 +89,8 @@ h2 {
 
 
 embed {
-position: fixed;
-left: 250px;
+position: absolute;
+left: 200px;
 }
 
 
