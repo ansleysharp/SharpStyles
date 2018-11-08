@@ -121,3 +121,24 @@ p {
   position: absolute;
   left: 50px;
 }
+
+.col {
+  display: block;
+}
+
+.col h2 {
+  text-align: top-right;
+}
+
+.rows {
+  text-align: center;
+  text-indent: 198px;
+}
+
+.rows p {
+  text-indent: 250px;
+}
+
+.service img {
+  float: right;
+}
