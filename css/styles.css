@@ -139,6 +139,12 @@ p {
   text-indent: 250px;
 }
 
-.service img {
+.services img{
   float: right;
+  position: absolute;
+}
+
+.rating {
+  color: orange;
+  right: 200px;
 }
