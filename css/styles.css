@@ -150,3 +150,7 @@ p {
   float: right;
   right: auto;
 }
+
+.photos img {
+  right: 400px;
+}
