@@ -91,10 +91,22 @@ left: 700px;
 }
 
 .textbox {
-    border: 1px solid gray;
-    padding: 0px;
+
+    padding: 20px;
     text-align: center;
-    left: 30px;
+    left: 0px;
+}
+
+#rcorners1 {
+    border-radius: 50px / 15px;
+    background: #73AD21;
+    padding: 20px;
+    width: 500px;
+    height: 160px;
+    position: fixed;
+    top:800px;
+    left: 50px;
+
 }
 
 h1 {
