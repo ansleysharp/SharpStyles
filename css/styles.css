@@ -86,15 +86,15 @@ h2 {
 }
 
 embed {
-position: absolute;
-left: 700px;
+  position: absolute;
+  left: 700px;
 }
 
 .textbox {
-    border: 1px solid gray;
-    padding: 0px;
-    text-align: center;
-    left: 30px;
+  border: 1px solid gray;
+  padding: 0px;
+  text-align: center;
+  left: 30px;
 }
 
 h1 {
@@ -138,7 +138,6 @@ p {
 
 .services img {
   float: right;
-  position: absolute;
 }
 
 .rating {
@@ -147,29 +146,20 @@ p {
   text-indent: 75px;
 }
 
-.cars img {
-  height: 400px;
-  width: 500px;
-  float: right;
-  right: auto;
-}
-
-.photos img {
-  right: 400px;
-}
 
 p.ex1 {
   border: 1px solid black;
   outline-style: solid;
   outline-color: #D8C7C4;
-  padding: 25px 50px 75px;v
+  padding: 25px 50px 75px;
+  v
 }
 
 p.ex2 {
   border: 1px solid black;
-   outline-style: solid;
-   outline-color: #D8C7C4;
-   padding: 25px 50px 75px;
+  outline-style: solid;
+  outline-color: #D8C7C4;
+  padding: 25px 50px 75px;
 }
 
 p.ex3 {
@@ -189,7 +179,7 @@ p.ex4 {
 p.ex5 {
   border: 1px solid black;
   outline-style: solid;
-  outline-color:#D8C7C4;
+  outline-color: #D8C7C4;
   padding: 25px 50px 75px;
 }
 
