@@ -99,12 +99,12 @@ embed {
 
 #rcorners1 {
     border-radius: 50px / 15px;
-    background: #73AD21;
+    background: #060045;
     padding: 20px;
     width: 500px;
     height: 160px;
-    position: fixed;
-    top:800px;
+    position: absolute;
+    top:850px;
     left: 50px;
 
 }
@@ -207,4 +207,10 @@ p.ex7 {
   outline-style: solid;
   outline-color: #D8C7C4;
   padding: 25px 50px 75px;
+}
+
+photos {
+  position: relative;
+  top: 700px;
+  left: 40px;
 }
