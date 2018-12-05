@@ -106,7 +106,31 @@ embed {
     height: 160px;
     position: absolute;
     top:850px;
-    left: 50px;
+    left: 100px;
+
+}
+
+#rcorners2 {
+    border-radius: 50px / 15px;
+    background: #060045;
+    padding: 20px;
+    width: 500px;
+    height: 160px;
+    position: absolute;
+    top:850px;
+    left: 700px;
+
+}
+
+#rcorners3 {
+    border-radius: 50px / 15px;
+    background: #060045;
+    padding: 20px;
+    width: 500px;
+    height: 160px;
+    position: absolute;
+    top:850px;
+    left: 1300px;
 
 }
 
