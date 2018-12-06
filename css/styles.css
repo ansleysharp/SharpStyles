@@ -90,6 +90,20 @@ embed {
   left: 700px;
 }
 
+.description {
+  position: absolute;
+  left: 1250px;
+  top: 300px;
+  padding: 10px;
+}
+
+.warranty {
+  position: absolute;
+  left: 1250px;
+  top: 450px;
+  padding: 10px;
+}
+
 .textbox {
   padding: 20px;
   text-align: center;
