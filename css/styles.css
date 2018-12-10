@@ -327,15 +327,20 @@ p.ex7 {
 .img-1 {
   position: absolute;
   left: 200px;
+  width: 30%
 }
 
 .img-2 {
   position: absolute;
   left: 500px;
-  height: 500px;
 }
 
 .img-3 {
   position: absolute;
   left: 800px;
+}
+
+.img-4{
+  position: absolute;
+  left: 1075px;
 }
