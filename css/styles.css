@@ -345,3 +345,23 @@ p.ex7 {
   left: 200px;
   right: 1000px;
 }
+
+.autopainting {
+  position: absolute;
+  left: 1000px;
+  right: 200px;
+}
+
+.dentrepair {
+  position: absolute;
+  left: 200px;
+  right: 1000px;
+  top: 500px;
+}
+
+.autoglass {
+  position: absolute;
+  left: 1000px;
+  right: 200px;
+  top: 500px;
+}
