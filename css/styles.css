@@ -167,18 +167,6 @@ embed {
   display: table;
 }
 
-/* Style time text */
-.time-right {
-  float: right;
-  color: #aaa;
-}
-
-/* Style time text */
-.time-left {
-  float: left;
-  color: #999;
-}
-
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%;
@@ -324,45 +312,27 @@ p.ex7 {
   padding: 25px 50px 75px;
 }
 
-.img-1 {
+.images-1 {
   position: absolute;
   left: 200px;
 }
 
-.img-2 {
+.images-2 {
   position: absolute;
   left: 500px;
-  height: 500px;
 }
 
-.img-3 {
+.images-3 {
   position: absolute;
   left: 800px;
 }
 
-
-.unibody {
+.images-4 {
   position: absolute;
-  left: 200px;
-  right: 1000px;
+  left: 1075px;
 }
 
-.autopainting {
+.images-5 {
   position: absolute;
-  left: 1000px;
-  right: 200px;
-}
-
-.dentrepair {
-  position: absolute;
-  left: 200px;
-  right: 1000px;
-  top: 500px;
-}
-
-.autoglass {
-  position: absolute;
-  left: 1000px;
-  right: 200px;
-  top: 500px;
+  left: 1400px;
 }
