@@ -256,6 +256,53 @@ p {
   float: right;
 }
 
+.unibody {
+  position: absolute;
+  top: 700px;
+  left: 300px;
+  right: 1000px;
+}
+
+.autopainting {
+  position: absolute;
+  top: 700px;
+  left: 1000px;
+  right: 300px;
+}
+
+.dentrepair {
+  position: absolute;
+  top: 900px;
+  left: 300px;
+  right: 1000px;
+}
+
+.autoglass {
+  position: absolute;
+  top: 900px;
+  left: 1000px;
+  right: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .rating {
   color: orange;
   text-align: center;
