@@ -369,6 +369,10 @@ p.ex7 {
   padding: 25px 50px 75px;
 }
 
+* {
+  box-sizing: border-box
+}
+
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
